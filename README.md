@@ -1,47 +1,11 @@
 # 💫 About Me:
 👋 ¡Hola! Soy Héctor Javier Cruz, Analista de Datos especializado en transformar información en decisiones estratégicas.
 Trabajo con Python (Pandas, NumPy), SQL y Tableau para crear procesos ETL, dashboards y modelos descriptivos que optimizan la operación y mejoran KPIs.
-Tengo experiencia en e-commerce, logística y optimización de precios, aplicando análisis de datos para incrementar conversión, rotación y rentabilidad.
+Tengo experiencia análisis de datos en e-commerce, inventarios y logística, generando impacto medible en conversión, margen y eficiencia operativa.
 
 🚀 En GitHub encontrarás proyectos de análisis, visualización y automatización de datos.
 
-📈 En búsqueda de oportunidades para seguir creciendo como Data Analyst, impulsando decisiones basadas en datos.
-
-🔍 Versión Técnica (para mostrar dominio y claridad)
-Data Analyst apasionado por el proceso completo del dato: desde la extracción, transformación y carga (ETL) hasta la visualización y comunicación de insights.
-
-Tecnologías que uso:
-🐍 Python (Pandas, NumPy, Matplotlib)
-🧮 SQL (MySQL, SQLite)
-📊 Tableau / Excel (Power Query, Tablas Dinámicas)
-
-Experiencia aplicando análisis de datos en e-commerce, inventarios y logística, generando impacto medible en conversión, margen y eficiencia operativa.
-
-📚 Siempre aprendiendo, siempre midiendo.
-
-✨ Versión Personal y humana (más cercana y con storytelling)
-Soy Héctor Javier Cruz, un Analista de Datos que disfruta convertir grandes volúmenes de información en decisiones claras y accionables.
-
-He trabajado con Python, SQL y Tableau creando soluciones que automatizan reportes, optimizan inventarios y mejoran KPIs de ventas.
-
-Me apasiona entender el “por qué” detrás de los números y construir herramientas que den valor real al negocio.
-
-Actualmente busco oportunidades como Data Analyst, donde pueda aplicar mis habilidades y seguir creciendo con equipos orientados a resultados.
-
-## Proyectos relevantes
-Dashboard de KPIs de almacén y ventas — Analista/Implementador
-Descripción: Construí un proceso ETL y un tablero de control para monitorear entradas/salidas, rotación, fill rate y ventas por SKU, reduciendo los tiempos de reporte de horas a minutos. Responsabilidad: análisis, modelado de datos y diseño del dashboard.
-Tecnologías/Herramientas: Python (Pandas), SQL, Excel (Power Query), Tablas dinámicas.
-Impacto: Disminuí el tiempo de elaboración de reportes en >85% y habilité decisiones de reposición semanales basadas en datos.
-GitHub/demo: https://github.com/Javiercruz07
-Consolidación de ventas multicanal — Analista de Datos
-Descripción: Unifiqué datos de ventas, comisiones y métricas por canal (ML, Amazon, directas) en un único modelo de margen y ranking de SKUs. Responsabilidad: integración de fuentes, limpieza y estandarización de métricas.
-Tecnologías/Herramientas: Python, SQL, Excel.
-Impacto: Aumenté la visibilidad de rentabilidad por SKU/canal, reduciendo errores de conciliación en 70% y mejorando decisiones de pricing.
-Optimización de precios e inventario — Analista E-commerce
-Descripción: Desarrollé una hoja de precio objetivo por SKU considerando costo, margen, demanda y fees, con alertas de reposición por umbrales. Responsabilidad: lógica de pricing, escenarios y KPIs.
-Tecnologías/Herramientas: Python, Excel.
-Impacto: Incrementé el margen bruto en 3–5 p.p. en categorías objetivo y reduje quiebres de stock en 18%.
+📈 Estoy en búsqueda de oportunidades para seguir creciendo como Data Analyst, impulsando decisiones basadas en datos.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gfella07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javier.cruz.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/javier-cruz-hjc2727) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javier.cruz.j27@gmail.com) 
