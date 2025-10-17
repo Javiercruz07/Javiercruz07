@@ -27,6 +27,22 @@ He trabajado con Python, SQL y Tableau creando soluciones que automatizan report
 Me apasiona entender el “por qué” detrás de los números y construir herramientas que den valor real al negocio.
 
 Actualmente busco oportunidades como Data Analyst, donde pueda aplicar mis habilidades y seguir creciendo con equipos orientados a resultados.
+
+## Proyectos relevantes
+Dashboard de KPIs de almacén y ventas — Analista/Implementador
+Descripción: Construí un proceso ETL y un tablero de control para monitorear entradas/salidas, rotación, fill rate y ventas por SKU, reduciendo los tiempos de reporte de horas a minutos. Responsabilidad: análisis, modelado de datos y diseño del dashboard.
+Tecnologías/Herramientas: Python (Pandas), SQL, Excel (Power Query), Tablas dinámicas.
+Impacto: Disminuí el tiempo de elaboración de reportes en >85% y habilité decisiones de reposición semanales basadas en datos.
+GitHub/demo: https://github.com/Javiercruz07
+Consolidación de ventas multicanal — Analista de Datos
+Descripción: Unifiqué datos de ventas, comisiones y métricas por canal (ML, Amazon, directas) en un único modelo de margen y ranking de SKUs. Responsabilidad: integración de fuentes, limpieza y estandarización de métricas.
+Tecnologías/Herramientas: Python, SQL, Excel.
+Impacto: Aumenté la visibilidad de rentabilidad por SKU/canal, reduciendo errores de conciliación en 70% y mejorando decisiones de pricing.
+Optimización de precios e inventario — Analista E-commerce
+Descripción: Desarrollé una hoja de precio objetivo por SKU considerando costo, margen, demanda y fees, con alertas de reposición por umbrales. Responsabilidad: lógica de pricing, escenarios y KPIs.
+Tecnologías/Herramientas: Python, Excel.
+Impacto: Incrementé el margen bruto en 3–5 p.p. en categorías objetivo y reduje quiebres de stock en 18%.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gfella07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javier.cruz.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/javier-cruz-hjc2727) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javier.cruz.j27@gmail.com) 
 
