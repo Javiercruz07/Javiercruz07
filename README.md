@@ -1,6 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on DATA ANALYST <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help to create code<br>🌱 I’m currently learning DATA ANALYST <br>💬 Ask me about<br>⚡ Fun fact: I love the jdm´s cars
+👋 ¡Hola! Soy Héctor Javier Cruz, Analista de Datos especializado en transformar información en decisiones estratégicas.
+Trabajo con Python (Pandas, NumPy), SQL y Tableau para crear procesos ETL, dashboards y modelos descriptivos que optimizan la operación y mejoran KPIs.
+Tengo experiencia en e-commerce, logística y optimización de precios, aplicando análisis de datos para incrementar conversión, rotación y rentabilidad.
+🔍 Versión Técnica (para mostrar dominio y claridad)
+Data Analyst apasionado por el proceso completo del dato: desde la extracción, transformación y carga (ETL) hasta la visualización y comunicación de insights.
 
+Tecnologías que uso:
+🐍 Python (Pandas, NumPy, Matplotlib)
+🧮 SQL (MySQL, SQLite)
+📊 Tableau / Excel (Power Query, Tablas Dinámicas)
+
+✨ Versión Personal y humana (más cercana y con storytelling)
+Soy Héctor Javier Cruz, un Analista de Datos que disfruta convertir grandes volúmenes de información en decisiones claras y accionables.
+
+He trabajado con Python, SQL y Tableau creando soluciones que automatizan reportes, optimizan inventarios y mejoran KPIs de ventas.
+
+Me apasiona entender el “por qué” detrás de los números y construir herramientas que den valor real al negocio.
+
+Actualmente busco oportunidades como Data Analyst, donde pueda aplicar mis habilidades y seguir creciendo con equipos orientados a resultados.
+
+📚 Siempre aprendiendo, siempre midiendo.
+
+🚀 En GitHub encontrarás proyectos de análisis, visualización y automatización de datos.
+
+📈 En búsqueda de oportunidades para seguir creciendo como Data Analyst, impulsando decisiones basadas en datos.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gfella07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javier.cruz.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/javier-cruz-hjc2727) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javier.cruz.j27@gmail.com) 
